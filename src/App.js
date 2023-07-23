@@ -7,10 +7,10 @@ import Task4 from './Task4/Main'
 function App() {
   return (
     <div>
-      {/* <Task3/> */}
+      <Task3/>
       {/* <Task2A/> */}
       {/* <Task2B/> */}
-      <Task4/>
+      {/* <Task4/> */}
 
     </div>
   );
